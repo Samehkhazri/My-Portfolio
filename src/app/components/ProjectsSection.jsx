@@ -11,8 +11,8 @@ const projectsData = [
   description: "Developed an online banking solution for individuals and small businesses with personalized dashboards and inventory management.",
   image: "/images/projects/windybank.png",
   tag: ["All", "Web"],
-  gitUrl: "/",
-  previewUrl: "/",
+  gitUrl: "https://github.com/Samehkhazri/Windybank-Project-SpringBoot-Angular-MySQL",
+  previewUrl: "https://github.com/Samehkhazri/Windybank-Project-SpringBoot-Angular-MySQL",
 },
 
 {
@@ -21,18 +21,18 @@ const projectsData = [
   description: "Developed a website for buying modernized car accessories. Worked on the front end using React, Bootstrap, and CSS, and ensured project completion within deadlines.",
   image: "/images/projects/carfancy.png",
   tag: ["All", "Web"],
-  gitUrl: "/",
-  previewUrl: "/",
+  gitUrl: "https://github.com/Samehkhazri/MERN_project_final.git",
+  previewUrl: "https://github.com/Samehkhazri/MERN_project_final.git",
 },
 
 {
   id: 3,
   title: "Housify",
   description: "Developed a website for buying and selling real estate. Designed the admin dashboard, developed the Show All page with Flask, and worked on the backend.",
-  image: "/images/projects/housify.png",
+  image: "/images/projects/housify.gif",
   tag: ["All", "Web"],
-  gitUrl: "/",
-  previewUrl: "/",
+  gitUrl: "https://github.com/Samehkhazri/python_project.git",
+  previewUrl: "https://github.com/Samehkhazri/python_project.git",
 },
 ];
 
